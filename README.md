@@ -12,6 +12,6 @@ To achieve these goals, I will conduct exploratory data analysis, build machine 
 - Teams have a statistically significant higher win rate when playing at home.
 - French league has low-scoring matches, while German and Spanish leagues have high-scoring matches.
 - English league teams excel at creating chances via crossing, while German teams are better at passing.
-- A model predicting match winners had a 52% accuracy but struggles with predicting draws.
-- A goal prediction model has 25% overall accuracy, performing well for 1-4 goals but poorly for other results.
+- Model predicting match winners had a 52% accuracy but struggles with predicting draws.
+- Goal prediction model has 25% overall accuracy, performing well for 1-4 goals but poorly for other results.
 - Model performance can be improved by incorporating more relevant features and analyzing feature importance.
